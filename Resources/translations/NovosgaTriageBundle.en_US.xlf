@@ -1,5 +1,5 @@
 <?xml version="1.0" ?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file datatype="plaintext" original="messages.pt_BR.xlf" source-language="pt-BR" target-language="en">
+  <file datatype="plaintext" original="messages.pt_BR.xlf" source-language="pt-BR" target-language="en-US">
     <body>
       <trans-unit id="0">
         <source>module.name</source>
@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="2">
         <source>subtitle</source>
-        <target>Tickets issue</target>
+        <target>Ticket issue</target>
         
       </trans-unit>
       <trans-unit id="3">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="8">
         <source>modal.attendance</source>
-        <target>Attending</target>
+        <target>Attendance</target>
         
       </trans-unit>
       <trans-unit id="9">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="12">
         <source>label.customer</source>
-        <target>Customer</target>
+        <target>Customer </target>
         
       </trans-unit>
       <trans-unit id="13">
@@ -88,17 +88,17 @@
       </trans-unit>
       <trans-unit id="17">
         <source>alert.title</source>
-        <target>Alert</target>
+        <target>Attention!</target>
         
       </trans-unit>
       <trans-unit id="18">
         <source>alert.cancel.text</source>
-        <target>Do you really wish to cancel that ticket?</target>
+        <target>Do you really want to cancel this ticket?</target>
         
       </trans-unit>
       <trans-unit id="19">
         <source>alert.reactivate.text</source>
-        <target>Do you really wish to reactivate that ticket?</target>
+        <target>Do you really want to reactivate this ticket?</target>
         
       </trans-unit>
       <trans-unit id="20">
@@ -108,12 +108,12 @@
       </trans-unit>
       <trans-unit id="21">
         <source>modal.attendance.button.reactivate</source>
-        <target>Reactivate ticket</target>
+        <target>Re-enable ticket</target>
         
       </trans-unit>
       <trans-unit id="22">
         <source>modal.attendance.button.transfer</source>
-        <target>Transfer / change ticket</target>
+        <target>Transfer / Change ticket</target>
         
       </trans-unit>
       <trans-unit id="23">
@@ -128,17 +128,17 @@
       </trans-unit>
       <trans-unit id="25">
         <source>modal.transfer.button</source>
-        <target>Transfer</target>
+        <target>Download</target>
         
       </trans-unit>
       <trans-unit id="35">
         <source>modal.search</source>
-        <target>Search</target>
+        <target>Find</target>
         
       </trans-unit>
       <trans-unit id="36">
         <source>modal.search.placeholder</source>
-        <target>Full ticket code,  chars or number</target>
+        <target>Complete ticket, letters or number</target>
         
       </trans-unit>
       <trans-unit id="37">
@@ -148,17 +148,17 @@
       </trans-unit>
       <trans-unit id="38">
         <source>label.ticket.arrival_date</source>
-        <target>Date of arrival</target>
+        <target>Arrival date</target>
         
       </trans-unit>
       <trans-unit id="39">
         <source>label.ticket.start_date</source>
-        <target>Start date</target>
+        <target>Initial date</target>
         
       </trans-unit>
       <trans-unit id="40">
         <source>label.ticket.end_date</source>
-        <target>End date</target>
+        <target>Final date</target>
         
       </trans-unit>
       <trans-unit id="41">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="42">
         <source>label.ticket.user</source>
-        <target>Attendant</target>
+        <target>Operator</target>
         
       </trans-unit>
       <trans-unit id="43">
@@ -192,7 +192,7 @@
       </trans-unit>
       <trans-unit id="50">
         <source>server.datetime</source>
-        <target>Server datetime</target>
+        <target>Date and time on server</target>
         
       </trans-unit>
       <trans-unit id="51">
@@ -225,7 +225,7 @@
       </trans-unit>
       <trans-unit id="57">
         <source>label.customer.id</source>
-        <target>Document</target>
+        <target>ID</target>
         
       </trans-unit>
       <trans-unit id="58">
@@ -235,7 +235,7 @@
       </trans-unit>
       <trans-unit id="59">
         <source>label.subservices</source>
-        <target>Subservices </target>
+        <target>Subservices</target>
         
       </trans-unit>
       <trans-unit id="60">

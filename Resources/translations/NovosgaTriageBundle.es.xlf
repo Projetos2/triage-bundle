@@ -13,6 +13,7 @@
       </trans-unit>
       <trans-unit id="2">
         <source>subtitle</source>
+        <target>Emisión de numero</target>
         
       </trans-unit>
       <trans-unit id="3">
@@ -22,6 +23,7 @@
       </trans-unit>
       <trans-unit id="4">
         <source>placeholder.search</source>
+        <target>Buscar Numero</target>
         
       </trans-unit>
       <trans-unit id="5">
@@ -76,10 +78,12 @@
       </trans-unit>
       <trans-unit id="15">
         <source>label.yes</source>
+        <target>Si</target>
         
       </trans-unit>
       <trans-unit id="16">
         <source>label.no</source>
+        <target>No</target>
         
       </trans-unit>
       <trans-unit id="17">
@@ -99,6 +103,7 @@
       </trans-unit>
       <trans-unit id="20">
         <source>alert.transfer.text</source>
+        <target>¿Desea realmente transferir esta ese numero?</target>
         
       </trans-unit>
       <trans-unit id="21">
@@ -123,6 +128,7 @@
       </trans-unit>
       <trans-unit id="25">
         <source>modal.transfer.button</source>
+        <target>Tranferir</target>
         
       </trans-unit>
       <trans-unit id="35">
@@ -132,6 +138,7 @@
       </trans-unit>
       <trans-unit id="36">
         <source>modal.search.placeholder</source>
+        <target>Contraseña completa, sigla o número</target>
         
       </trans-unit>
       <trans-unit id="37">
@@ -171,6 +178,11 @@
       </trans-unit>
       <trans-unit id="44">
         <source>MM/DD/YYYY HH:mm:ss</source>
+        <target>DD/MM/YYYY hh:mm:ss</target>
+        
+      </trans-unit>
+      <trans-unit id="45">
+        <source>MM/DD/YYYY</source>
         
       </trans-unit>
       <trans-unit id="49">
@@ -181,6 +193,58 @@
       <trans-unit id="50">
         <source>server.datetime</source>
         <target>Fecha y hora en el servidor</target>
+        
+      </trans-unit>
+      <trans-unit id="51">
+        <source>error.invalid_service</source>
+        <target>Servicio inválido</target>
+        
+      </trans-unit>
+      <trans-unit id="52">
+        <source>error.schedule.confirmed</source>
+        
+      </trans-unit>
+      <trans-unit id="53">
+        <source>error.schedule.expired</source>
+        
+      </trans-unit>
+      <trans-unit id="54">
+        <source>label.name</source>
+        <target>Nombre</target>
+        
+      </trans-unit>
+      <trans-unit id="55">
+        <source>label.priority</source>
+        <target>Prioridad</target>
+        
+      </trans-unit>
+      <trans-unit id="56">
+        <source>label.ticket</source>
+        <target>Contraseña</target>
+        
+      </trans-unit>
+      <trans-unit id="57">
+        <source>label.customer.id</source>
+        <target>Documento</target>
+        
+      </trans-unit>
+      <trans-unit id="58">
+        <source>label.description</source>
+        <target>Descripción</target>
+        
+      </trans-unit>
+      <trans-unit id="59">
+        <source>label.subservices</source>
+        <target>Subservicios</target>
+        
+      </trans-unit>
+      <trans-unit id="60">
+        <source>label.date</source>
+        <target>Dato</target>
+        
+      </trans-unit>
+      <trans-unit id="61">
+        <source>label.time</source>
         
       </trans-unit>
     </body>
